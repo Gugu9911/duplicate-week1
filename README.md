@@ -1,33 +1,23 @@
-# Week 1 Assignment
+# Jingyi Guo
 
-This assignment aims to practice HTML, CSS and SASS
+## About Me
 
-## Requirement
+Hello, I am Jingyi Guo. Currently, I am pursuing my second year in a Master's degree in Computer Science. My specialization lies in **Software Engineering**.
 
-Create an e-commerce website
+### Technical Stack
 
-1. Git/GitHub
+- **Frontend**: React
+- **Backend**: Node, Express
+- **Architecture**: MVC (Model-View-Controller)
 
-- create a simple `README` file to introduce yourself
-- submit the assignment by open a pull request (PR)
-- make the repository public
-- add label to your PR
+### Interests
 
-2. HTML and Accessibility
+Apart from my technical pursuits, I have a variety of interests:
 
-- Make use of different tags: headings, paragraphs, link, italic, ordered list, unordered list,table, form
-- Check out more tags that might be helpful: address, section, article, audio
+- **Travel**: Exploring new places and experiencing different cultures.
+- **Watching Series**: Enjoying a range of TV series spanning different genres.
+- **Reading**: Immersing myself in the world of novels.
 
-3. CSS
+---
 
-- add styling to the HTML file using Flexbox and Grid
-- add basic animation (hover effect, active link styles, typing effect)
-- the web page does not need to be fully responsive, but at least you should have responsive scaling for Flexbox and Grid system.
-
-4. SASS
-
-- apply SAAS to current project. Make sure to at least use variables and mixins
-
-5. Other
-   - Deploy the project
-   - Write a readme file to describe your project with few more details
+Looking forward to expanding my horizons both in technology and personal interests.
